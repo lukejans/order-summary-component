@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [html](https://github.com/lukejans/frontend-mentor/blob/main/order-summary-component/index.html) & [css](https://github.com/lukejans/frontend-mentor/blob/main/order-summary-component/style.css)
-- Live Site URL: [github pages](https://lukejans.github.io/frontend-mentor/)
+- Solution URL: [html](https://github.com/lukejans/order-summary-component/blob/main/index.html) & [css](https://github.com/lukejans/order-summary-component/blob/main/style.css)
+- Live Site URL: [github pages]()
 
 ### What I learned
 

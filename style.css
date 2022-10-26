@@ -8,6 +8,7 @@ body {
     justify-content: center;
     align-items: center;
     font-family: 'Red Hat Display';
+    flex-direction: column;
 }
 
 .container {
@@ -124,10 +125,9 @@ body {
     color: rgb(97, 82, 252);
 }
 
-/*
 .attribution {
     font-size: 11px; 
     text-align: center;
     color: hsl(228, 45%, 44%);
+    padding: 24px;
 }
-*/
