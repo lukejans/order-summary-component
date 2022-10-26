@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [html](https://github.com/lukejans/order-summary-component/blob/main/index.html) & [css](https://github.com/lukejans/order-summary-component/blob/main/style.css)
-- Live Site URL: [github pages]()
+- Live Site URL: [github pages](https://lukejans.github.io/order-summary-component/)
 
 ### What I learned
 
