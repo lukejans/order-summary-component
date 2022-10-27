@@ -4,11 +4,11 @@ body {
     background-image: url("images/pattern-background-desktop.svg");
     background-color: hsl(225, 100%, 94%);
     background-repeat: no-repeat;
-    display: flex;
+    background-size: cover;
+    font-family: 'Red Hat Display';
+    display: grid;
     justify-content: center;
     align-items: center;
-    font-family: 'Red Hat Display';
-    flex-direction: column;
 }
 
 .container {
