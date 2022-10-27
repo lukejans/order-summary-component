@@ -55,7 +55,7 @@ body {
     justify-content: center;
     align-items: center;
     background-color: hsl(225, 100%, 98%);
-    border-radius: 1rem;
+    border-radius: 0.8rem;
     padding: 20px 25px;
     width: 260px;
 }
@@ -113,7 +113,7 @@ body {
     justify-content: center;
     align-items: center;
     padding: 2px 0;
-    border-radius: 1rem;
+    border-radius: 0.7rem;
     text-decoration: none;
 }
 
