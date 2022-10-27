@@ -22,8 +22,8 @@ body {
     align-items: center;
     background-color: white;
     padding: 0;
-    max-width: 400px;
-    max-height: 650px;
+    max-width: 386px;
+    max-height: 640px;
     border-radius: 1rem;
     box-sizing: border-box;
 }
@@ -31,7 +31,7 @@ body {
 .img-head img {
     border-top-left-radius: 1rem;
     border-top-right-radius: 1rem;
-    width: 400px;
+    width: 386px;
 }
 
 .title {
@@ -131,7 +131,7 @@ body {
 }
 
 .attribution {
-    font-size: 1rem; 
+    font-size: 0.85rem; 
     text-align: center;
     color: hsl(228, 45%, 44%);
     padding: 24px;
