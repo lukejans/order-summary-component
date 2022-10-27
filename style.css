@@ -4,7 +4,7 @@ body {
     background-image: url("images/pattern-background-desktop.svg");
     background-color: hsl(225, 100%, 94%);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-repeat: repeat-x;
     font-family: 'Red Hat Display';
     flex-direction: column;
     justify-content: center;
