@@ -6,11 +6,14 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     font-family: 'Red Hat Display';
-    display: grid;
-    grid-template-columns:  repeat(autofit, minmax(100px, 1fr));
+    flex-direction: column;
     justify-content: center;
-    
+    align-items: center;
+    display: flex;
+    min-height: 100vh;
+    width: 100vw;
 }
+
 
 .container {
     display: flex;
@@ -19,8 +22,8 @@ body {
     align-items: center;
     background-color: white;
     padding: 0;
-    height: 100%;
-    width: 450px;
+    max-width: 400px;
+    max-height: 650px;
     border-radius: 1rem;
     box-sizing: border-box;
 }
@@ -28,13 +31,13 @@ body {
 .img-head img {
     border-top-left-radius: 1rem;
     border-top-right-radius: 1rem;
-    width: 450px;
+    width: 400px;
 }
 
 .title {
     font-weight: 700;
-    font-size: 2rem;
-    margin: 30px 0 18px 0;
+    font-size: 1.8rem;
+    margin: 28px 0 16px 0;
     text-align: center;
 }
 
@@ -105,13 +108,13 @@ body {
 .button-one {
     background-color: rgb(56, 42, 225);
     color: white;
-    font-weight: 500;
+    font-weight: 700;
     box-shadow: 0 10px 20px rgba(57, 42, 225, 0.288);
 }
 
 .button-two {
     color: hsl(224, 23%, 55%);
-    font-weight: 500;
+    font-weight: 700;
 }
 
 .button-one:hover {
