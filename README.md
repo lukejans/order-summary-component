@@ -8,9 +8,6 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -29,19 +26,6 @@ Users should be able to:
 
 - Solution URL: [html](https://github.com/lukejans/order-summary-component/blob/main/index.html) & [css](https://github.com/lukejans/order-summary-component/blob/main/style.css)
 - Live Site URL: [github pages](https://lukejans.github.io/order-summary-component/)
-
-### What I learned
-
-```css
-@import url(https://fonts.googleapis.com/css?family=Red+Hat+Display:300,400,500,600,700,800,900);
-
-body {
-  font-family: 'Red Hat Display';
-}
-```
-this was my first time importing fonts and also learned to import the various font weights to customize with css.
-
-- all other work done was accomplished from previous knowledge 
 
 ## Author
 
