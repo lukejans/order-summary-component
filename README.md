@@ -1,27 +1,5 @@
 # Frontend Mentor - Order summary card solution
 
-This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
-
-## Table of contents
-
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-## Overview
-
-### The challenge
-
-Users should be able to:
-
-- See hover states for interactive elements
-
-### Screenshot
-![Order Summary Screenshot](images/screen-shot.png)
-
 ### Links
 
 - Solution URL: [html](https://github.com/lukejans/order-summary-component/blob/main/index.html) & [css](https://github.com/lukejans/order-summary-component/blob/main/style.css)
@@ -52,4 +30,4 @@ Users should be able to:
       src="https://img.shields.io/badge/-Replit-F3F7FA?logo=Replit&logoColor=F26207&style=for-the-badge&logoWidth=30"
       alt="CodePen"
     />
-  </a> 
+  </a>
